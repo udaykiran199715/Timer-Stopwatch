@@ -1,3 +1,23 @@
+# Timer - Stopwatch
+
+[Demo](https://timer-stopwatch-eight.now.sh/)
+---
+<img align='center' src='src/components/React-Timer&stopwatch.png' />
+
+
+## Overview of the project:
+
+A web application which is a clone of google timer and stopwatch.
+
+User can start, stop and reset both timer and stopwatch and they both can be worked simultaneously.
+
+## Timer 
+<img align='center' src='src/components/timer.png' />
+
+## Stopwatch
+<img align='center' src='src/components/stopwatch.png' />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
